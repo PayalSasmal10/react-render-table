@@ -16,7 +16,7 @@ import PropTypes from "prop-types";
 //
 // Do not worry about styling/layout, focus on functionality. You may use
 // hooks or refactor to a class component, whichever you find is easiest
-// to work with.
+// to work with. 
 
 // <th><td></td></th>
 // <tr><td></td></tr>
